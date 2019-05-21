@@ -1,0 +1,17 @@
+{
+  "name": "speakerapp",
+  "version": "0.0.1",
+  "description": "A Cloud Guru Course",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "mongodb": "^3.2.4",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "author": "Ian Armstrong",
+  "license": "ISC"
+}
